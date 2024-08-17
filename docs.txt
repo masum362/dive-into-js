@@ -1,0 +1,9 @@
+data types: string , number , boolean, null , undefined
+keywords ---> identifier hisebe lekhte parbo na
+naming convention --> camelcase , PascalCase , snake_case
+
+operator 
+shorthand operator
+type casting
+
+javascript is a dynaically typed language
